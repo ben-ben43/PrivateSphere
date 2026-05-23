@@ -1,0 +1,3 @@
+[theme]
+base = "dark"
+primaryColor = "#007BFF"  # Changes the text box highlight and spinners to blue
